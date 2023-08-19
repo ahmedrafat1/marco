@@ -1,0 +1,1 @@
+{'ver1':'9', 'ver2':'75', 'ver3':'\n•Update the WhatsApp base to 2.23.9.75.\n•Improve the DH Ultra All Features.\n•Added Reaction Emoji Changer.\n•Fixed Some More Features Not Working Problem.\n' , 'dli':'https://youtu.be/HE8rHAeemJM'}
